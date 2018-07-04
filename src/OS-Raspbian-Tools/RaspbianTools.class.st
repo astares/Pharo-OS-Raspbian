@@ -21,7 +21,9 @@ RaspbianTools class >> fileManagerMenuOn: aBuilder [
 { #category : #menu }
 RaspbianTools class >> menuCommandOn: aBuilder [ 
 	<worldMenu> 
-	(aBuilder item: #'OS-Raspbian Tools')	 
+	(aBuilder item: #'OS-Raspbian Tools')	
+		parent: #'Tools';
+		order: 12; 
 		help: 'Raspbian Tools';
 		icon: (RaspbianToolIcons iconNamed: #raspbianIcon);
 		withSeparatorAfter

@@ -9,7 +9,7 @@ Class {
 
 { #category : #baselines }
 BaselineOfOSRaspbian >> baseline: spec [
-	<version: 'baseline'>
+	<baseline>
 
 	spec for: #'common' do: [
 		spec 

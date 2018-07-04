@@ -1,0 +1,1 @@
+Common class for Raspbian tools

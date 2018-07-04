@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 10/27/2015 21:56",
+	"super" : "Object",
+	"category" : "OS-Raspbian-Environment-Shell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RaspbianShell",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RaspbianSpecificTest",
+	"category" : "OS-Raspbian-Tests-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RaspbianTest",
+	"type" : "normal"
+}

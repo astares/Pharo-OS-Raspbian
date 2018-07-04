@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 10/27/2015 21:52",
+	"super" : "Object",
+	"category" : "OS-Raspbian-Core-OS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Raspbian",
+	"type" : "normal"
+}
